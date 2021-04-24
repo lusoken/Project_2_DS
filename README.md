@@ -1,2 +1,2 @@
 # Project_2_DS
-Acamica data science course - project 2 notebook
+Acamica data science course - Project 2, final notebook
